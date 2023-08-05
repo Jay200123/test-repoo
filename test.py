@@ -16,3 +16,4 @@ number2 = 12
 total = number + number2
 print(total)
 
+print("Conventional Commit")
